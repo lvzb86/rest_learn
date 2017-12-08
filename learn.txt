@@ -1,0 +1,13 @@
+
+crud
+	create
+	retrieve
+	update
+	delete
+
+http动词
+	get
+	post
+	put
+	patch
+
